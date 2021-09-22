@@ -16,7 +16,6 @@ VAR mood=0
 VAR friend="张三"
 VAR friend_wife="翠花"
 说明：你从老家来昆山挣钱，在这里会有各种选择，做出合理的选择避免挂壁吧😜#CLASS:explain
-大家中秋快乐呀，跟家人好好联系，吃个月饼🍪#CLASS:explain
 +[第一章：初到昆山] 
 ->chapter1
 +[第二章：入职昆山仁保] 
